@@ -12,18 +12,7 @@ A beginner-friendly Python project that extracts a webpage's title using `reques
 - Requests
 - BeautifulSoup4
 
-## Installation
-Install the required libraries:
 
-```bash
-pip install requests beautifulsoup4
-```
-
-## Usage
-Run the Python script:
-
-```bash
-python main.py
 ```
 
 The extracted webpage title is saved in `title.txt`.
